@@ -1,0 +1,71 @@
+h1, h2, p {
+    text-align: center;
+    color: #dfe9f3;
+}
+
+body {
+    background-image: url("../assets/fondo.jpg");
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.carta {
+    max-width: 600px;
+    padding: 20px;
+    width: 80%;
+    background-color: #757575;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.producto {
+    text-align: left;
+    width: 75%;
+}
+
+.precio {
+    text-align: right;
+    width: 25%;
+}
+
+.item p {
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1, h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fundado {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    border-color: black;
+}
+
+footer {
+    font-size: 14px;
+  }
+
+img {
+    max-width: 100px;
+    display: block;
+    margin: 0 auto;
+    margin-top: -25px;
+  }
